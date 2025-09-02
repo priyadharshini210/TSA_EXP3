@@ -1,5 +1,6 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-Date: 01-09-2025
+## Date: 01-09-2025
+## Register No: 212223240128
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
